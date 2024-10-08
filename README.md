@@ -1,4 +1,5 @@
 Contador de Calorías
+
 Esta es una aplicación web sencilla diseñada para ayudar a los usuarios a llevar un registro de su ingesta diaria de calorías y las calorías quemadas a través del ejercicio. El usuario puede establecer su presupuesto de calorías diario e ingresar sus comidas y ejercicios para calcular las calorías restantes en cualquier momento.
 
 Tabla de Contenidos
@@ -9,6 +10,7 @@ Uso
 Contribuciones
 
 Características
+
 Permite a los usuarios establecer un presupuesto diario de calorías.
 Añadir entradas para desayuno, almuerzo, cena y snacks.
 Añadir entradas de ejercicio para restar calorías quemadas.
@@ -43,6 +45,7 @@ Usa el menú desplegable para seleccionar si deseas añadir una comida o ejercic
 Añade las comidas o ejercicios individualmente introduciendo un nombre y el valor de calorías.
 Una vez que hayas añadido todas las entradas, haz clic en el botón "Calcular Calorías Restantes" para ver el resultado.
 La aplicación te mostrará si estás en un excedente o déficit de calorías basado en tus entradas.
+
 Contribuciones
 ¡Las contribuciones son bienvenidas! Para contribuir:
 
